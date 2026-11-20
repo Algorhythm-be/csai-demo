@@ -1,0 +1,3 @@
+# Prototype: disallow everything so it never competes with the live site.
+User-Agent: *
+Disallow: /
