@@ -1,0 +1,25 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="1304" height="242" viewBox="0 0 1304 242" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Brand lines / editable contours" clip-path="url(#clip0_0_105)">
+<path id="Vector" d="M0 9.375H705.28" stroke-width="1.3" stroke-linecap="round" stroke="url(#paint0_linear_0_105)"/>
+<path id="Vector_2" d="M705.28 9.375C729.28 9.375 753.28 1.375 777.28 1.375H1239C1281.67 1.375 1303 22.7083 1303 65.375V237" stroke-width="1.3" stroke-linecap="round" stroke="#3B94C1" stroke-opacity="0.52"/>
+<path id="Vector_3" d="M705.28 9.375C729.28 9.375 753.28 9.375 777.28 9.375H1231C1273.67 9.375 1295 30.7083 1295 73.375V237" stroke-width="1.3" stroke-linecap="round" stroke="url(#paint1_linear_0_105)"/>
+<path id="Vector_4" d="M705.28 9.375C729.28 9.375 753.28 17.375 777.28 17.375H1223C1265.67 17.375 1287 38.7083 1287 81.375V237" stroke-width="1.3" stroke-linecap="round" stroke="#3B94C1" stroke-opacity="0.52"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_105" x1="0" y1="9.375" x2="1303" y2="9.375" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4BA4D5"/>
+<stop offset="0.45" stop-color="#84D8F8"/>
+<stop offset="0.75" stop-color="#C0EFFF"/>
+<stop offset="1" stop-color="#70C9ED"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_105" x1="4.90314e-05" y1="9.375" x2="1303" y2="9.375" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4BA4D5"/>
+<stop offset="0.45" stop-color="#84D8F8"/>
+<stop offset="0.75" stop-color="#C0EFFF"/>
+<stop offset="1" stop-color="#70C9ED"/>
+</linearGradient>
+<clipPath id="clip0_0_105">
+<rect width="1304" height="242" fill="white"/>
+</clipPath>
+</defs>
+</svg>
